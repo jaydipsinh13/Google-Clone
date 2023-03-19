@@ -2,7 +2,6 @@
 
 The Google Clone project is a website designed to resemble the Google search engine homepage. This project is built using HTML and CSS, making it an excellent opportunity for beginners to learn web development. 
 
-Note: This website is not responsive 
 
 ## Screenshots
 
