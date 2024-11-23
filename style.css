@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
 * {
+    font-family: "Funnel Display", sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     cursor: default;
-    font-family: Arial, sans-serif;
+    /* font-family: Arial, sans-serif; */
     /* border: 1px solid red; */
 }
 
@@ -108,9 +111,13 @@ svg {
     margin-right: 5px;
 }
 
+main{
+    margin-top: 50px;
+}
 
-
-
+.search svg{
+    color: #9aa0a6 !important;
+}
 @media (max-width: 576px) {
     .logo {
         padding: 0px;
